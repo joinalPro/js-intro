@@ -10,7 +10,7 @@ var pencout = shoppingCart.pen;
 var pencout2 = shoppingCart['pen'];
 // console.log(pencout2)
 
-var propertyName = 'books';
+var propertyName = ' ';
 var propertyValue = shoppingCart[propertyName];
 console.log(propertyName, propertyValue)
 
