@@ -21,7 +21,7 @@
 // bringSingara(taka);
 
 // 4
-function add (num1, mum2){
-    console.log('going to add ', num1, mum2);
-}
-add(21);
+// function add (num1, mum2){
+//     console.log('going to add ', num1, mum2);
+// }
+// add(21);
